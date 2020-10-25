@@ -1,3 +1,3 @@
 <?php
-    echo "Primera prueba ultilizando GitHub"
+    echo "Primera prueba ultilizando GitHub";
 ?>
